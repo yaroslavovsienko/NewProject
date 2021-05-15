@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         System.out.println("Hi");
-        System.out.print("sdfsdfsdfsd");
+        System.out.print("ddddd");
         System.out.println("Hi");
         System.out.println("Hi");
         System.out.println("Hi");
@@ -14,6 +14,12 @@ public class Main {
         System.out.println("Hi");
         System.out.println("Hi");
         System.out.println("Hi");
+        System.out.println("New");
+        System.out.println("New");
+        System.out.println("New");
+        System.out.println("New");
+        System.out.println("New");
+        System.out.println("New");
         System.out.println("New");
 
 
